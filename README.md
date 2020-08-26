@@ -18,7 +18,7 @@
   </a>
 </p>
 
-## Sobre
+## About
 
 📖 Proffy - it is a way to connect teachers who want to teach and students who need teachers.
 Project developed during **NLW - Next Level Week #2** offered by [Rocketseat](https://rocketseat.com.br/). NLW is an online experience with lots of practical content, challenges and hacks where the content is available for a week.
