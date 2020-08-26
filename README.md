@@ -61,15 +61,15 @@ Both Frontend and Mobile need the Backend to be running to work.
 Before you begin, you will need to have the following tools installed on your machine:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) and [Yarn](https://yarnpkg.com/). In addition, it is good to have an editor to work with the code like [VSCode](https://code.visualstudio.com/).
 
-#### Start Backend (server)
+#### Start Frontend (web)
 
 ```bash
 
 # Clone this repository
-$ git clone https://github.com/Ives-Gomes/Proffy-API.git
+$ git clone https://github.com/Ives-Gomes/Proffy-React.git
 
 # Access the project folder cmd/terminal
-$ cd Proffy-API
+$ cd Proffy-React
 
 # install the dependencies
 $ yarn
